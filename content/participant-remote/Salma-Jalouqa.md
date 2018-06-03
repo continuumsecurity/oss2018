@@ -15,13 +15,15 @@ chapter_leader  :
 eventbrite_id   :
 pre-summit      :
 status          : add details
-sessions        :    
-    - Using Pixi  
+sessions        : 
+
+    - JIRA - how to use it
+    - Security Ethics Checklist
+    - Zap - How to use it
     - API Threat Modeling Cheat Sheet
     - Application Security Verification Standard 
-    - Getting more women in Cyber-security  
-    - Cloud brokerage 
-    - authentication and authorisation   
-    - Owasp Testing Guide v5  
-    - Security Playbooks
+    - Publishing apps in a VSTS security pipeline
+    - Owasp Cloud Security Workshop (BETA)
+    - Owasp Testing Guide v5 
+    
 ---

@@ -8,18 +8,16 @@ session_type : Chatham house rules
 technology   :
 categories   :
 featured     :
-when_day     : Thu
-when_time    : Eve-2
+when_day     : Wed
+when_time    : Eve-1
 room_layout  :
-room_number  :
+room_id      :
 session_slack: https://os-summit.slack.com/messages/CAWB4EKLN
-status       : draft              # draft, review-content, done
+status       : review-content              # draft, review-content, done
 description  : Hands on session on using a customized version of the The Hive for Incident Response
 organizers   :
     - Francois Raynaud
 participants :
-    - Dan Gapco
-    - John Killilea
     - Vladimir Voskresenskiy
 ---
 

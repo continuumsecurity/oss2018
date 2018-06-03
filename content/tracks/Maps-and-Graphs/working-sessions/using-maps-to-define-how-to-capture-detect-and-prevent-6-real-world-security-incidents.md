@@ -6,8 +6,8 @@ topics       : ["Wardley Maps"]
 featured     : yes
 when_day     : Tue
 when_time    : AM-1
-room_layout  :
-room_number  :
+room_id      : room-3
+locked       : true
 session_slack:
 status       : done
 description  : Hands on session on how to use Wardley maps
@@ -16,13 +16,9 @@ organizers   :
 participants :
     - Ante Gulam
     - Chris Allen
-    - Dan Gapco
     - Francois Raynaud
-    - James Wharton
     - Jonathan	Hawes
-    - Simon Pavillon
     - Mark Regensberg
-    - Sotiraki Sima
     - Richard Orme
     - Tony Richards
     - Vladimir Voskresenskiy
