@@ -21,6 +21,7 @@ participants :
     - Vladimir Voskresenskiy
     - Jaimen Lathia
     - Chris Allen
+    - Stephen de Vries
 
 ---
 

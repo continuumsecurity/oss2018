@@ -17,6 +17,7 @@ organizers   :
     - Tony Richards
 participants :
     - Dinis Cruz
+    - Stephen de Vries
 ---
 
 <!--(add intro)
